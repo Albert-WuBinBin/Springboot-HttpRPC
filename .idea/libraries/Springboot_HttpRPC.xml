@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Springboot-HttpRPC">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/rpcapi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/rpcapi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/rpcclient/src/main/java" />
+      <root url="file://$PROJECT_DIR$/rpcclient/src/test/java" />
+      <root url="file://$PROJECT_DIR$/rpcserver/src/main/java" />
+      <root url="file://$PROJECT_DIR$/rpcserver/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
